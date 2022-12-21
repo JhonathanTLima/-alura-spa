@@ -175,6 +175,18 @@ nav ul li a:hover {
   border-color: #F1E0AC;
 }
 
+
+#curiosidades {
+    padding: 1rem;
+    text-align: center;
+    margin: 5px;
+}
+
+h3 {
+  color: #495371;
+  font-size: 1.5rem;
+}
+
 footer {
   text-align: center;
   font-size: 1.5rem;
